@@ -35,6 +35,11 @@ Fine calculation for late returns
 Dashboard with analytics
 Barcode/QR code integration
 
+➢ Visit my website
+https://library-manage-systems.netlify.app/
+
+➢Linkedin profile
+
 Author:
 Kamalika A
 B.E. Computer Science and Engineering

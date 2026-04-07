@@ -39,6 +39,7 @@ Barcode/QR code integration
 https://library-manage-systems.netlify.app/
 
 ➢Linkedin profile
+https://www.linkedin.com/in/kamalika-a-46492632a?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 Author:
 Kamalika A
